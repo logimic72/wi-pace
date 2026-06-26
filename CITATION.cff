@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Dataset Cleaning & Labeling Tool"
+message: "If you use this software, please cite it using the metadata below."
+type: software
+authors:
+  - given-names: "FIRST_NAME"
+    family-names: "LAST_NAME"
+    affiliation: "YOUR_INSTITUTION"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  # - given-names: "..."     # add co-authors as needed
+  #   family-names: "..."
+  #   affiliation: "..."
+repository-code: "https://github.com/<your-username>/dataset-cleaning-tool"
+license: MIT
+version: "1.0.0"
+date-released: "YYYY-MM-DD"
+
+# --- Optional: link the journal article this software supplements ---
+# Once your paper has a DOI, fill this in so the tool cites the article.
+preferred-citation:
+  type: article
+  title: "PAPER_TITLE"
+  authors:
+    - given-names: "FIRST_NAME"
+      family-names: "LAST_NAME"
+  journal: "JOURNAL_NAME"
+  year: YEAR
+  # volume: 0
+  # issue: 0
+  # start: 0      # first page
+  # end: 0        # last page
+  # doi: "10.xxxx/xxxxx"
